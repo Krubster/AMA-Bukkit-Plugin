@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/qq/Desktop/programms/Downloads/bukkit-1.7.5-R0.1-20140402.015659-5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qq/Desktop/programms/servers/Classic/plugins/Essentials.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qq/Desktop/programms/servers/amatest/plugins/Jail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qq/Desktop/programms/servers/amatest/plugins/TagAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/qq/Desktop/programms/servers/amatest/plugins/Vault.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

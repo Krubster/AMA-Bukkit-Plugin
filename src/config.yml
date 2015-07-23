@@ -1,0 +1,23 @@
+useJail: true
+useEconomy: true
+useTags: true
+useMessages: true
+moneyPerKill: 150
+jailMultiplierPerKill: 10.5
+essentialsJailName: jail
+topPlayers: 20
+killerDeadMessage: k поймал убийцу m!
+awardMessage: За убийство преступника вы получили amt
+murderMessage: Вы убили невиновного!
+murderList: Список преступников
+###                            ###
+#jailPluginUsing: Essentials/Jail#
+###                            ###
+jailPluginUsing: Essentials
+players:
+  Alastar:
+    kills: 0
+  Alsfgfdg:
+    kills: 1
+  AlastarI:
+    kills: 0

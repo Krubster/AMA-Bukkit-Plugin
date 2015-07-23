@@ -1,0 +1,44 @@
+name: Alastars Murder Awards
+main: ru.alastar.bukkit.ma.MainClass
+description: Все засранцы должны быть наказаны!
+version: 6.1
+authors: [Alastar]
+depend: [Vault, Essentials]
+softdepend: [Jail, TagAPI]
+commands:
+   ama:
+      description: Вызов списка проеступников
+      permission: ma.ama
+      usage: /<command>
+   amareset:
+      description: Снять убийство
+      permission: ma.amareset
+      usage: /<command> [player name]
+   amaresetall:
+      description: Снять все убийства
+      permission: ma.amaresetall
+      usage: /<command> [player name]
+   amadisablejail:
+      description: Отключить тюрягу
+      permission: ma.amadisablejail
+      usage: /<command>
+   amaenablejail:
+      description: Включить тюрягу
+      permission: ma.amaenablejail
+      usage: /<command>
+   amadisableeconomy:
+      description: Включить финансирование
+      permission: ma.amadisableeconomy
+      usage: /<command>
+   amaenableeconomy:
+      description: Отключить финансирование
+      permission: ma.amaenableeconomy
+      usage: /<command>
+   amasetmultiplier:
+      description: Время за одно убийство
+      permission: ma.amasetmultiplier
+      usage: /<command> (amt)
+   moneyPerKill:
+      description: Кол-во денег за убийство
+      permission: ma.moneyPerKill
+      usage: /<command> (amt)
