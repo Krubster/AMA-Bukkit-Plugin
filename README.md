@@ -34,21 +34,39 @@ Bukkit API Version: 1.7.5-R0.1
 
  
 useJail: true //on\off jailing
+
 useEconomy: true //on\off justice pay
+
 useTags: true // color murders nicks
+
 useMessages: true // Use messages
+
 moneyPerKill: 150 // justice pay value per kill
+
 jailMultiplierPerKill: 10.5 // jail time per kill
+
 topPlayers: 20 // Max player to be displayed in top
+
 killerDeadMessage: k поймал убийцу m! // Name of catcher - k, Name of murder - m
+
 awardMessage: За убийство преступника вы получили amt //Amount of pay - amt
+
 murderMessage: Вы убили невиновного! // Innocent killed
+
 murderList: Список преступников // Muirders list
+
 essentialsJailName: jail // If you are using EssentialsJail, enter jail name here
+
 jailPluginUsing: Essentials // Essentials/Jail
+
 players: // Murders list
+
   Alastar:
+  
     kills: 0
+	
   AlastarI:
+  
     kills: 1
+	
  
